@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+
+}
+
+.a {
+    color:red;
+}
+
+.b {
+    color: hotpink;
+}
+
+.c {
+    color: orange;
+}
+
+.d {
+    color: green;
+}
+
+.e {
+    color: white;
+    background-color: black;
+}
